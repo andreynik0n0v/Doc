@@ -1,0 +1,61 @@
+\hypertarget{classlab3_1_1_boy}{}\doxysection{lab3.\+Boy Class Reference}
+\label{classlab3_1_1_boy}\index{lab3.Boy@{lab3.Boy}}
+
+
+Inheritance diagram for lab3.\+Boy\+:
+% FIG 0
+
+
+Collaboration diagram for lab3.\+Boy\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classlab3_1_1_boy_a7379a21f84ae2225f7499693a996667e}{Boy}} (string name, string gender)
+\begin{DoxyCompactList}\small\item\em Конструктор \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classlab3_1_1_boy_ad65d5d1b0bef1368e5d99d17ae21a24f}\label{classlab3_1_1_boy_ad65d5d1b0bef1368e5d99d17ae21a24f}} 
+void {\bfseries POL} ()
+\begin{DoxyCompactList}\small\item\em Выводит в консоль поздравления о рождении ребенка \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Member Functions inherited from \mbox{\hyperlink{classlab3_1_1_children}{lab3.\+Children}}}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classlab3_1_1_children_a7101f6ffa0ff32e6976c43fb9266c8a8}{Children}} (string name, string gender)
+\begin{DoxyCompactList}\small\item\em Конструктор \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Additional Inherited Members}
+\doxysubsubsection*{Properties inherited from \mbox{\hyperlink{classlab3_1_1_children}{lab3.\+Children}}}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classlab3_1_1_children_a1f670e532736fe947f318644dc1d0878}\label{classlab3_1_1_children_a1f670e532736fe947f318644dc1d0878}} 
+string {\bfseries Name}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Свойство для получения имени ребенка \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classlab3_1_1_children_a318ce402b80739a19a7fa7a841bb7f53}\label{classlab3_1_1_children_a318ce402b80739a19a7fa7a841bb7f53}} 
+string {\bfseries Gender}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Свойство для получения пола ребенка \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+ 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classlab3_1_1_boy_a7379a21f84ae2225f7499693a996667e}\label{classlab3_1_1_boy_a7379a21f84ae2225f7499693a996667e}} 
+\index{lab3.Boy@{lab3.Boy}!Boy@{Boy}}
+\index{Boy@{Boy}!lab3.Boy@{lab3.Boy}}
+\doxysubsubsection{\texorpdfstring{Boy()}{Boy()}}
+{\footnotesize\ttfamily lab3.\+Boy.\+Boy (\begin{DoxyParamCaption}\item[{string}]{name,  }\item[{string}]{gender }\end{DoxyParamCaption})}
+
+
+
+Конструктор 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & Имя\\
+\hline
+{\em gender} & Пол\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/Андрей/\+Desktop/lab3/Boy.\+cs\end{DoxyCompactItemize}
